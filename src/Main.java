@@ -8,7 +8,7 @@ public class Main {
         long lng = 45678976;
         float fl = 1.5f;
         double d = 0.55d;
-        boolean b =true;
+        boolean b =false;
         char c = 'b';
 
         System.out.println(a);
