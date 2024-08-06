@@ -9,7 +9,7 @@ public class Main {
         float fl = 1.5f;
         double d = 0.55d;
         boolean b =true;
-        char c = 'a';
+        char c = 'b';
 
         System.out.println(a);
         System.out.println(shot);
