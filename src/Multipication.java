@@ -12,6 +12,7 @@ public class Multipication {
             System.out.println(number+"*"+j+"="+number*j);
         }
 
+        sc.close();
     }
 
 }

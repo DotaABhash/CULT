@@ -5,7 +5,7 @@ public class Main {
         byte a = 127;
         short shot = 1;
         int integer = 2;
-        long lng = 45678976;
+        long lng = 45678976L;
         float fl = 1.5f;
         double d = 0.55d;
         boolean b =false;

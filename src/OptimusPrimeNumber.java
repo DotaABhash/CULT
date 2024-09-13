@@ -28,7 +28,7 @@ public class OptimusPrimeNumber {
             System.out.println("The number"+number+"is a Prime Number");
         }
 
-
+        userGivenNumber.close();
 
     }
 }
